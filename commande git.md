@@ -8,7 +8,7 @@ Créer
 2) git dash here (via clic droit)
 3) git init //initialise le répertoire local
 4) git add . //ajoute contenu dossier courant
-5) git commit -m « nom du commit »
+5) git commit -m « nom du commit » //qu'est ce qu'on a rajouté au projet
 6) git remote add origin « lien https » //indique
 7) git push origin master //met en ligne le projet
 
